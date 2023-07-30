@@ -1,0 +1,50 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+}
+.button{
+    text-align: center;
+    padding: 20px;
+    width: 72px;
+    margin: 8px;
+    border: 2px solid rgb(232, 16, 16);
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: rgb(163, 147, 199);
+}
+
+.row{
+    margin: 8px;
+    
+}
+.row input{
+  margin: 3px 2px;
+  padding: 16px 50px;
+  background-color: rgb(199, 241, 189);
+  
+}
+.doublezero{
+    width: 90px   ;
+}
+
+element.style{
+    margin: 10px;
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
